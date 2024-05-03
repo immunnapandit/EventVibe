@@ -4,6 +4,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import HeroSection from './Components/HeroSection';
 import Services from './Components/Services';
 import About from './Components/About';
+import Contact from './Components/Contact';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <HeroSection/>
         <Services/>
         <About/>
+        <Contact/>
       </Router>
     </div>
   );
