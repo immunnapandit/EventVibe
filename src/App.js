@@ -5,6 +5,7 @@ import HeroSection from './Components/HeroSection';
 import Services from './Components/Services';
 import About from './Components/About';
 import Contact from './Components/Contact';
+import Footer from './Components/Footer';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Services/>
         <About/>
         <Contact/>
+        <Footer/>
       </Router>
     </div>
   );
