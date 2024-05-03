@@ -103,7 +103,4 @@ const Contact = () => {
 };
 
 export default Contact;
-//write push command to push the code to the repository
-// git push origin main
-//write push command to push the code to the repository
-// git push origin main
+
