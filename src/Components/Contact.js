@@ -103,4 +103,7 @@ const Contact = () => {
 };
 
 export default Contact;
-//Munna kumards
+//write push command to push the code to the repository
+// git push origin main
+//write push command to push the code to the repository
+// git push origin main
